@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on MAchine Learning
 - 📫 How to reach me https://in.linkedin.com/in/vineetjuneja
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: coding is easier than narrower mountain driver ;-) both are super fun though!
+- ⚡ Fun fact: coding is easier than narrower mountain drives ;-) both are super fun though!
 
 <!---
 vineet-juneja/vineet-juneja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
